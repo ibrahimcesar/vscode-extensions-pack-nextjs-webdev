@@ -1,8 +1,8 @@
  <div align="center">
- 
-  <h1>📺  NextJS Developer Extensions Bundle</h1>
-  <blockquote>Opinated bundle to develop web application in VS Code with NextJS</blockquote>
-  
+
+  <h1>⚡  NextJS Developer Extensions Pack</h1>
+  <blockquote>Opinated extension pack to a great experience and performance on developing web application in VS Code with NextJS</blockquote>
+
 <p>Bundled in 🇧🇷 <span role="img" aria-label="Flag for Brazil">Brazil</p>
 
 </div>

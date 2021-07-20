@@ -1,9 +1,9 @@
 {
-    "name": "ibrahimcesar-nextjs-developer-bundler",
-    "displayName": "NextJS Developer Extensions Bundle",
-    "description": "Opinated bundle to develop with NextJS",
+    "name": "ibrahimcesar-nextjs-developer-pack",
+    "displayName": "⚡  NextJS Developer Extensions Pack",
+    "description": "Opinated extension pack to a great experience and performance on developing web application in VS Code with NextJS",
     "publisher": "IbrahimCesar",
-    "version": "0.1.1",
+    "version": "0.1.3",
       "author": {
     "name": "Ibrahim Cesar",
     "email": "opensource@ibrahimcesar.com"
