@@ -4,6 +4,10 @@
     "description": "Opinated bundle to develop with NextJS",
     "publisher": "IbrahimCesar",
     "version": "0.1.0",
+      "author": {
+    "name": "Ibrahim Cesar",
+    "email": "opensource@ibrahimcesar.com"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/ibrahimcesar/vscode-extensions-pack-nextjs-webdev"
@@ -14,9 +18,19 @@
     "engines": {
         "vscode": "^1.58.0"
     },
+    "galleryBanner": {
+    "color": "#373c44",
+    "theme": "dark"
+  },
+  "icon": "images/logo.png",
     "categories": [
         "Extension Packs"
     ],
+      "keywords": [
+    "NextJS Extensions",
+    "NextJS",
+    "Web development"
+  ],
     "extensionPack": [
         "2gua.rainbow-brackets",
         "aaron-bond.better-comments",
@@ -32,7 +46,6 @@
         "dkundel.vscode-npm-source",
         "eamodio.gitlens", 
         "esbenp.prettier-vscode",
-        "fauna.fauna", 
         "formulahendry.auto-close-tag", 
         "formulahendry.auto-rename-tag", 
         "Gruntfuggly.todo-tree", 
@@ -59,7 +72,6 @@
         "shd101wyy.markdown-preview-enhanced",
         "sleistner.vscode-fileutils", 
         "sodatea.velocity", 
-        "stevencl.addDocComments", 
         "streetsidesoftware.code-spell-checker",
         "VisualStudioExptTeam.vscodeintellicode", 
         "wayou.vscode-todo-highlight"

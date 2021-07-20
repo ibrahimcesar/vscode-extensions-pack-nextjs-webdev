@@ -1,4 +1,13 @@
-# NextJS Developer Extensions Bundle
+ <div align="center">
+ 
+  <h1>📺  NextJS Developer Extensions Bundle</h1>
+  <blockquote>Opinated bundle to develop web application in VS Code with NextJS</blockquote>
+  
+<p>Bundled in 🇧🇷 <span role="img" aria-label="Flag for Brazil">Brazil</p>
+
+</div>
+
+## Included extensions
 
 ## Install
 
