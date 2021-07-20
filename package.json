@@ -1,0 +1,67 @@
+{
+    "name": "ibrahimcesar-nextjs-developer-bundler",
+    "displayName": "NextJS Developer Extensions Bundle",
+    "description": "Opinated bundle to develop with NextJS",
+    "publisher": "IbrahimCesar",
+    "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ibrahimcesar/vscode-extensions-pack-nextjs-webdev"
+  },
+  "bugs": {
+    "url": "https://github.com/ibrahimcesar/vscode-extensions-pack-nextjs-webdev/issues"
+  },
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "2gua.rainbow-brackets",
+        "aaron-bond.better-comments",
+        "alefragnani.Bookmarks",
+        "alefragnani.project-manager",
+        "bierner.github-markdown-preview",
+        "BriteSnow.vscode-toggle-quotes",
+        "christian-kohler.path-intellisense",
+        "DavidAnson.vscode-markdownlint",
+        "dbaeumer.vscode-eslint",
+        "deque-systems.vscode-axe-linter",
+        "dkundel.vscode-new-file",
+        "dkundel.vscode-npm-source",
+        "eamodio.gitlens", 
+        "esbenp.prettier-vscode",
+        "fauna.fauna", 
+        "formulahendry.auto-close-tag", 
+        "formulahendry.auto-rename-tag", 
+        "Gruntfuggly.todo-tree", 
+        "HookyQR.minify", 
+        "jpoissonnier.vscode-styled-components", 
+        "leodevbro.blockman", 
+        "MariusAlchimavicius.json-to-ts", 
+        "meganrogge.template-string-converter", 
+        "mhutchie.git-graph", 
+        "mikestead.dotenv",
+        "ms-vscode.vscode-typescript-tslint-plugin", 
+        "mushan.vscode-paste-image", 
+        "naumovs.color-highlight", 
+        "NicholasHsiang.vscode-javascript-comment",
+        "oderwat.indent-rainbow", 
+        "orepor.color-tabs-vscode-ext", 
+        "Orta.vscode-jest", 
+        "PKief.material-icon-theme",
+        "pulkitgangwar.nextjs-snippets",
+        "quicktype.quicktype", 
+        "rangav.vscode-thunder-client", 
+        "richie5um2.vscode-sort-json", 
+        "shardulm94.trailing-spaces", 
+        "shd101wyy.markdown-preview-enhanced",
+        "sleistner.vscode-fileutils", 
+        "sodatea.velocity", 
+        "stevencl.addDocComments", 
+        "streetsidesoftware.code-spell-checker",
+        "VisualStudioExptTeam.vscodeintellicode", 
+        "wayou.vscode-todo-highlight"
+    ]
+}
