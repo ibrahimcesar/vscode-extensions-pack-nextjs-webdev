@@ -45,7 +45,7 @@
 
 ## Install
 
-Visit the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=IbrahimCesar.ibrahimcesar-nextjs-developer-bundler)
+Visit the **[Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=IbrahimCesar.ibrahimcesar-nextjs-developer-pack)**
 
 ## Creator
 
