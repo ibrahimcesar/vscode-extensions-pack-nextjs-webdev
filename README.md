@@ -40,7 +40,7 @@
 - [**Toggle Quotes**](https://marketplace.visualstudio.com/items?itemName=BriteSnow.vscode-toggle-quotes): _`cmd '` (`ctrl '` on win/linux) will cycle the first quote pair found_
 - [**Trailing Spaces**](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces): _Highlight trailing spaces and delete them in a flash!_
 - [**TSLint**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin): _TSLint support for Visual Studio Code_
-- [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode): _AI-assisted development_
+- [**Visual Studio IntelliCode**](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode): _AI-assisted development_
 - [**vscode-styled-components**](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components): _Syntax highlighting for styled-components_
 
 ## Install
