@@ -50,7 +50,7 @@ Visit the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items
 ## Creator
 
 | GitHub  |  Twitter |  LinkedIn | Site  |
-|:-:|:-:|:-:|:-:|---|
+|:-:|:-:|:-:|:-:|
 | [![Ibrahim](https://github.com/ibrahimcesar.png?size=50)](https://github.com/ibrahimcesar)  | [@ibrahimcesar](https://twitter.com/ibrahimcesar)  | [/in/ibrahimcesar](https://www.linkedin.com/in/ibrahimcesar/)  | [ibrahimcesar.cloud](https://ibrahimcesar.cloud)  |
 
 
