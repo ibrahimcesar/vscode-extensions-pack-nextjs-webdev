@@ -1,9 +1,9 @@
 {
     "name": "ibrahimcesar-nextjs-developer-pack",
     "displayName": "⚡  NextJS Developer Extensions Pack",
-    "description": "Opinated extension pack to a great experience and performance on developing web application in VS Code with NextJS",
+    "description": "Opinionated extension pack to a great experience and performance on developing web application in VS Code with NextJS",
     "publisher": "IbrahimCesar",
-    "version": "1.0.0",
+    "version": "1.0.2",
       "author": {
     "name": "Ibrahim Cesar",
     "email": "opensource@ibrahimcesar.com"
